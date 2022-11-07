@@ -1,0 +1,6 @@
+
+## Posts
+
+[[objectoreiented]]
+[[datastructures]]
+[[heterogeneous]]
