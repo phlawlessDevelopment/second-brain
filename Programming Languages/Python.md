@@ -1,6 +1,8 @@
 
-## Tags
-#python #prototyping #automation #scripting #tools #web/backend #web/fullstack #desktop/backend #desktop/frontend
+---
+lang_types: ["general","scripting", "games" "web"]
+web_stack: ["backend"]
+---
 
 ## Tooling
 

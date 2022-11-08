@@ -1,6 +1,9 @@
 
-## Tags
-#rust #typing/static  #gamedev #compiled #tools #backend #gui
+---
+lang_types: ["general", "games", "web"]
+web_stack: ["frontend", "backend"]
+---
+
 
 ## Tooling
 

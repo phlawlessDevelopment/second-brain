@@ -1,7 +1,7 @@
-
-## Tags
-#javascript #desktop/frontend  #web/frontend
-
+---
+lang_types: ["general", "games", "web"]
+web_stack: ["frontend"]
+---
 ## Tooling
 
 ### npm (packages)

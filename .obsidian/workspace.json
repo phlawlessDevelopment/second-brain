@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "7713247a17b2431a",
+    "type": "split",
+    "children": [
+      {
+        "id": "92863912f8b45203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0bb016964bff7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018df12cef9240ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Development/Game Development Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6828a95e323452dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "078706818e32d5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405b8d994258e10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4a787b1f878da59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"page_type: language\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc6839b556af18a3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68d51ec481401a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "305c1c912a215d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0090f11591230e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Development/Game Development Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7855b1c07fe86836",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game Development/Game Development Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72710ddeab19e3fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c429aeec39e163c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Development/Game Development Contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "018df12cef9240ca",
+  "lastOpenFiles": [
+    "Programming Languages/Programming Languages Contents.md",
+    "Programming Languages/Rust.md",
+    "Programming Languages/Python.md",
+    "Programming Languages/NodeJs.md",
+    "Programming Languages/Java.md",
+    "Programming Languages/Go.md",
+    "Programming Languages/Csharp.md",
+    "Programming Languages/CPP.md",
+    "Programming Languages/Clojure.md",
+    "Programming Languages/Javascript.md"
+  ]
+}

@@ -1,7 +1,8 @@
 
-## Tags
-#nodejs #prototyping #automation #scripting #tools #web/backend
-
+---
+lang_types: ["general", "scripting" "web"]
+web_stack: ["backend"]
+---
 ## Tooling
 
 ### npm (packages)

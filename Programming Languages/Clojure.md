@@ -1,6 +1,8 @@
+---
+lang_types: ["general", "functional", "web"]
+web_stack : ["frontend", "backend"]
+---
 
-## Tags
-#clojure #concurrency  #lisp #tools #web/backend
 
 ## Tooling
 
