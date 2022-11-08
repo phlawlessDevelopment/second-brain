@@ -1,12 +1,17 @@
 ---
+type: programming_language
 lang_types: ["general", "functional", "web"]
+tags: ["language/general","language/functional", "language/web"]
 web_stack : ["frontend", "backend"]
+date_created: Monday, November 7th 2022, 3:41:14 pm
+date_modified: Tuesday, November 8th 2022, 5:50:35 pm
 ---
 
 
 ## Tooling
 
 ### Leiningen (packages)
+
 
 #### commands:
 ```

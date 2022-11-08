@@ -1,6 +1,9 @@
 ---
+type:programming_language
 lang_types: ["general", "games", "web"]
 web_stack: ["frontend"]
+date_created: Monday, November 7th 2022, 12:54:16 pm
+date_modified: Tuesday, November 8th 2022, 5:30:19 pm
 ---
 ## Tooling
 

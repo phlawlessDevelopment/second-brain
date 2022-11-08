@@ -1,4 +1,7 @@
 [
   "dataview",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "templater-obsidian",
+  "buttons",
+  "obsidian-linter"
 ]

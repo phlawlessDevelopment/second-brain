@@ -1,3 +1,9 @@
+---
+date created: Monday, November 7th 2022, 3:08:11 pm
+date modified: Tuesday, November 8th 2022, 5:27:06 pm
+date_created: Monday, November 7th 2022, 3:08:11 pm
+date_modified: Tuesday, November 8th 2022, 5:30:19 pm
+---
 ## connections
 Hey, I'm a UK based freelance python/js web developer (and hobbyist game developer) looking to work into the board/card/tabletop gaming space.
 This is not a pitch, I'm just looking to expand my network in the right direction and meet people with similar skills/interests.

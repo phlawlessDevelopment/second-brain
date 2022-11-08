@@ -1,2 +1,0 @@
-[[Websockets]]
-[[GraphQL]]

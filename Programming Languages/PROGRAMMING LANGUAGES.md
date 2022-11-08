@@ -1,3 +1,9 @@
+---
+date created: Monday, November 7th 2022, 5:01:01 pm
+date modified: Tuesday, November 8th 2022, 5:27:06 pm
+date_created: Monday, November 7th 2022, 5:01:01 pm
+date_modified: Tuesday, November 8th 2022, 5:30:19 pm
+---
 ## general purpose languages
 	can be used to create almost any peice of software
 -   [[CPP]]
@@ -9,7 +15,6 @@
 -   [[Rust]]
 -   [[FSharp]]
 -   [[Haskell]]
--   [[NodeJs]]
 
 ## scripting languages
 	for exectuing single file scripts

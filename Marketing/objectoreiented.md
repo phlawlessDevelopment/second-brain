@@ -1,3 +1,9 @@
+---
+date created: Monday, November 7th 2022, 3:07:54 pm
+date modified: Tuesday, November 8th 2022, 5:27:06 pm
+date_created: Monday, November 7th 2022, 3:07:54 pm
+date_modified: Tuesday, November 8th 2022, 5:30:19 pm
+---
 Object oriented programming is such a deep part of our developer culture, it's quite difficult to avoid, when I was first learning to code
 something I feel was missing was a good explination of why it came about, what problem / problems it was designed to solve.
 
