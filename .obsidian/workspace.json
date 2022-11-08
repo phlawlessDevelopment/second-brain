@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92863912f8b45203",
+        "id": "4172f19915316fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bb016964bff7aa",
+            "id": "41e3f90fb3728b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018df12cef9240ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Development/Game Development Contents.md",
+                "file": "Developer Tools/Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Development/Game Development Contents.md",
+                "file": "Developer Tools/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Development/Game Development Contents.md",
+                "file": "Developer Tools/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,28 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Development/Game Development Contents.md"
+                "file": "Developer Tools/Docker.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 267.5
   },
-  "active": "018df12cef9240ca",
+  "active": "41e3f90fb3728b7e",
   "lastOpenFiles": [
-    "Programming Languages/Programming Languages Contents.md",
+    "Programming Languages/Clojure.md",
+    "Programming Languages/Javascript.md",
+    "Programming Languages/NodeJs.md",
+    "Todos/Learning.md",
+    "Programming Languages/PROGRAMMING LANGUAGES.md",
     "Programming Languages/Rust.md",
     "Programming Languages/Python.md",
-    "Programming Languages/NodeJs.md",
     "Programming Languages/Java.md",
-    "Programming Languages/Go.md",
-    "Programming Languages/Csharp.md",
-    "Programming Languages/CPP.md",
-    "Programming Languages/Clojure.md",
-    "Programming Languages/Javascript.md"
+    "Programming Languages/Haskell.md",
+    "Programming Languages/Go.md"
   ]
 }

@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Triage",
+  "attachmentFolderPath": "Static",
+  "spellcheck": true
+}

@@ -6,6 +6,6 @@
 
 
 ### projects
-[[Projects Contents]]
+[[GAMEDEV PROJECTS]]
 
 ### snippets and other fun stuff
